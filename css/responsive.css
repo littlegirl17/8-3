@@ -1,0 +1,23 @@
+.section_main_one_desktop {
+    display: block;
+}
+
+.section_main_one_mobile {
+    display: none;
+}
+
+/**/
+@media (max-width:500px) {
+    .section_main_one_desktop {
+        display: none;
+    }
+
+    .section_main_one_mobile {
+        display: block;
+    }
+
+    .header_main_menu ul {
+        padding-top: 20px;
+        margin: 0 0;
+    }
+}

@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+}
+
+
+
+
+.section_two {
+    background-color: #f17676;
+    color: #fff;
+    font-family: "Spectral SC", serif;
+    font-style: normal;
+    height: 100vh;
+
+}
+
+.section_three {
+    background-color: #5d5d5d;
+    color: #fff;
+    font-family: "Spectral SC", serif;
+    font-style: normal;
+    height: 100vh;
+
+}
+
+/**/
+
+/**/
